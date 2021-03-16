@@ -1,4 +1,4 @@
-FROM 111664719423.dkr.ecr.us-east-1.amazonaws.com/pin-test-repo1@sha256:ec9c24f6d7704b4bd4e500dac9b6bfe488d7fae28c328188e810df8cfa8f76a2
+FROM 111664719423.dkr.ecr.us-east-1.amazonaws.com/pin-test-repo1@sha256:4bb6604b5f100cd0f5555047553b08017ee75e9220a480cc7b61dab5daec89b4
 ARG REVISION
 ARG SOURCE
 
